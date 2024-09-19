@@ -1,4 +1,4 @@
-public class k5{
+public class K5{
     public static void main(String[] args){
         int num1=Integer.parseInt(args[0]);
         int factn=1;
