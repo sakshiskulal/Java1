@@ -1,4 +1,3 @@
-package pkg1;
 class MyPoint1{
 	private int x;
 	private int y;
